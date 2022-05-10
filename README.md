@@ -11,7 +11,7 @@
 > - The code which we write to implement a functionality with JavaScript, is drastically reduced when we write same functionality with React. In this way, development becomes faster and more productive.  
 
 ## Single Page Application?
-> - A Single Page Application is a web application, which has only onr HTML page.
+> - A Single Page Application is a web application, which has only one HTML page.
 > - When we navigate around in the application, the content of that HTML file changes. The page itself never changes.  
 
 
